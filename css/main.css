@@ -1,0 +1,42 @@
+
+/*Style for section B*/
+#section-b .row{
+    /*background-color: purple;*/
+    margin-top: 30px;
+}
+#section-b .card img{
+    width: 100%;
+    height: 200px;
+}
+
+#section-b .card img:hover{
+    opacity: 0.2;
+}
+
+#section-b .card:hover{
+    box-shadow: 3px 3px 3px 3px rebeccapurple;
+}
+
+#section-b .card .card-title:hover{
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 2, 0.16);
+}
+
+/*Style for section C*/
+
+#section-c #section-c-left{
+    padding: 20px;
+    font-family: "DejaVu Math TeX Gyre";
+    font-weight: bold;
+    text-align: left;
+    height: 50vh;
+}
+
+#section-c #section-c-right{
+    padding: 20px;
+    background-image: url("../images/eats3.jpg");
+    text-align: center;
+    color: #ad89e9;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+}
