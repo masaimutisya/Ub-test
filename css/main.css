@@ -71,3 +71,19 @@
     height: 45vh;
     width: 450px;
 }
+
+
+/*Section About*/
+#section-about .bg-image{
+    /*background-color: #005cbf;*/
+    background-image: url("../images/eats3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+    padding-top: 100px;
+    text-align: center;
+    font-family: "DejaVu Math TeX Gyre";
+    font-weight: bold;
+    font-size: 2em;
+    color: white;
+}
